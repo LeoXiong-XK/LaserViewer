@@ -1,5 +1,6 @@
 project(LaserViewer)
 cmake_minimum_required (VERSION 2.8)
+set(BUILD_USE_64BITS on)
 INCLUDE_DIRECTORIES(dep)
 
 SET(CMAKE_CONFIGURATION_TYPES Release CACHE STRING "" FORCE)

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="M:\WorkSpace\PrivateDoc\PraviteCode\LaserViewer\build\win32_vs2015\CMakeFiles\9220d9333f29c782b378dbd12362cf0f\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{919E72C4-6017-3BB2-8DEF-F4B0B1F11CCD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
